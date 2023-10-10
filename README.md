@@ -1,4 +1,6 @@
-# CS-630-DBMS
+# CS-630-Database Management Systems
+
+
 Database Management Systems
 
 *******  Topics are *******
